@@ -12,6 +12,6 @@ iOS: https://apps.apple.com/us/app/tezlab/id1239581716
 
 To run: 
 start python virtual environment using 
-```source env/bin/activate````
+```source env/bin/activate```
 then run the application with 
 ```python3 report.py```
